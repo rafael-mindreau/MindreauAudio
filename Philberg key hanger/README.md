@@ -1,5 +1,7 @@
 # Philberg key hanger
 
+![image](https://user-images.githubusercontent.com/1874332/233782046-ec888a38-5694-461b-b6be-0b3578855d46.png)
+
 This project was meant as a birthday present for a friend of mine. The build was an idea I had for some years in which you could plug in your keys into a knock-off synthesizer panel. There would be a makeshift hanger for your keychain with a 6.3mm jack. You could then plug in the jack into the female connectors on the panel.
 
 ## What's in the package
