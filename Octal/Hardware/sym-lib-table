@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name thonkiconn)(type Legacy)(uri ${KIPRJMOD}/Libraries/thonkiconn.lib)(options "")(descr ""))
-  (lib (name MindreauAudio)(type Legacy)(uri ${KIPRJMOD}/Libraries/MindreauAudio.lib)(options "")(descr ""))
-)
